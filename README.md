@@ -45,7 +45,7 @@ git clone <repository-url>
 
 3. Compile the Java file:
 ```bash
-javac DecodeLabs_java_p3.java
+javac atm_interface.java
 ```
 
 4. Run the program:
